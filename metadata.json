@@ -1,0 +1,6 @@
+{
+  "name": "University of Gondar Legal Affairs Management System",
+  "description": "A centralized digital legal affairs management system for the University of Gondar supporting case registration, assignment, hearing schedules, scholarship agreements, document tracking, role-based dashboards, and audit reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
